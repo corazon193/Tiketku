@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "983149155710",
+    "firebase_url": "https://tiketku-e08cc-default-rtdb.firebaseio.com",
+    "project_id": "tiketku-e08cc",
+    "storage_bucket": "tiketku-e08cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983149155710:android:cc4753f5340ebfd05b4f2f",
+        "android_client_info": {
+          "package_name": "com.tiketku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjEahLj-do4vBRAIKlsVNWooWltGHpkEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
